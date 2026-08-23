@@ -1,0 +1,1416 @@
+{
+  "overviewTitle": "Health Conditions Overview",
+  "callouts": [
+    {
+      "text": "Recovery slight pain in the left side neck.",
+      "status": "good",
+      "linkLabel": "View in Details \u2192"
+    },
+    {
+      "text": "Chronics Lungs Problem",
+      "status": "bad"
+    },
+    {
+      "text": "Knee Problem",
+      "status": "bad"
+    }
+  ],
+  "chartTitleDopamine": "Dopamine Levels During Physical Activity",
+  "chartTitleSerotonin": "Serotonin Levels During Physical Activity",
+  "chartAxisLabel": "Meditation Stats",
+  "dopaminePoints": [
+    {
+      "x": 0,
+      "y": 77,
+      "dot": true
+    },
+    {
+      "x": 8,
+      "y": 88
+    },
+    {
+      "x": 14,
+      "y": 95.5,
+      "dot": true
+    },
+    {
+      "x": 20,
+      "y": 92
+    },
+    {
+      "x": 25,
+      "y": 84,
+      "dot": true
+    },
+    {
+      "x": 32,
+      "y": 70
+    },
+    {
+      "x": 38,
+      "y": 58,
+      "dot": true
+    },
+    {
+      "x": 45,
+      "y": 68
+    },
+    {
+      "x": 52,
+      "y": 84,
+      "dot": true
+    },
+    {
+      "x": 57,
+      "y": 80
+    },
+    {
+      "x": 62,
+      "y": 84,
+      "dot": true
+    },
+    {
+      "x": 67,
+      "y": 80
+    },
+    {
+      "x": 72,
+      "y": 77,
+      "dot": true
+    },
+    {
+      "x": 78,
+      "y": 66
+    },
+    {
+      "x": 82,
+      "y": 57,
+      "dot": true
+    },
+    {
+      "x": 90,
+      "y": 74
+    },
+    {
+      "x": 96,
+      "y": 87,
+      "dot": true
+    },
+    {
+      "x": 102,
+      "y": 70
+    },
+    {
+      "x": 108,
+      "y": 52,
+      "dot": true
+    },
+    {
+      "x": 116,
+      "y": 65,
+      "dot": true
+    }
+  ],
+  "serotoninPoints": [
+    {
+      "x": 0,
+      "y": 62,
+      "dot": true
+    },
+    {
+      "x": 8,
+      "y": 70
+    },
+    {
+      "x": 15,
+      "y": 66,
+      "dot": true
+    },
+    {
+      "x": 22,
+      "y": 78
+    },
+    {
+      "x": 29,
+      "y": 88,
+      "dot": true
+    },
+    {
+      "x": 36,
+      "y": 80
+    },
+    {
+      "x": 43,
+      "y": 68,
+      "dot": true
+    },
+    {
+      "x": 50,
+      "y": 74
+    },
+    {
+      "x": 57,
+      "y": 90,
+      "dot": true
+    },
+    {
+      "x": 64,
+      "y": 84
+    },
+    {
+      "x": 71,
+      "y": 72,
+      "dot": true
+    },
+    {
+      "x": 78,
+      "y": 79
+    },
+    {
+      "x": 85,
+      "y": 92,
+      "dot": true
+    },
+    {
+      "x": 92,
+      "y": 82
+    },
+    {
+      "x": 99,
+      "y": 66,
+      "dot": true
+    },
+    {
+      "x": 106,
+      "y": 58
+    },
+    {
+      "x": 113,
+      "y": 71,
+      "dot": true
+    },
+    {
+      "x": 120,
+      "y": 80,
+      "dot": true
+    }
+  ],
+  "scoreCardTitle": "Hyperprolactinemia Score",
+  "scoreCardSubtitle": "From all projects",
+  "scoreValue": 95,
+  "scoreBasis": "Based on Hormone",
+  "aboutTitle": "ABOUT Hyperprolactinemia",
+  "aboutBody": "This condition is characterized by abnormally high levels of prolactin in the blood, which can result from various factors, including dopamine dysfunction, certain medications, or tumors of the pituitary gland (prolactinomas).",
+  "immuneHeading": "Immune system strength",
+  "immuneScore": 30,
+  "immuneRecommendationTitle": "Immune System Recommendation:",
+  "immuneIntro": "Maintaining a strong immune system is essential for overall health and protection against illness.\nWe recommend:",
+  "immuneBullets": [
+    "Eating a balanced diet rich in fruits, vegetables, and proteins.",
+    "Staying hydrated and getting enough sleep (7\u20138 hours).",
+    "Regular exercise to boost immunity and reduce stress."
+  ],
+  "strengths": [
+    {
+      "value": "0.05",
+      "label": "HCV Antibody"
+    },
+    {
+      "value": "0.05",
+      "label": "HCV Antibody"
+    },
+    {
+      "value": "0.05",
+      "label": "HCV Antibody"
+    },
+    {
+      "value": "0.05",
+      "label": "HCV Antibody"
+    },
+    {
+      "value": "0.05",
+      "label": "HCV Antibody"
+    },
+    {
+      "value": "0.05",
+      "label": "HCV Antibody"
+    }
+  ],
+  "weaknesses": [
+    {
+      "value": "0.05",
+      "label": "HCV Antibody"
+    },
+    {
+      "value": "0.05",
+      "label": "HCV Antibody"
+    },
+    {
+      "value": "0.05",
+      "label": "HCV Antibody"
+    },
+    {
+      "value": "0.05",
+      "label": "HCV Antibody"
+    },
+    {
+      "value": "0.05",
+      "label": "HCV Antibody"
+    },
+    {
+      "value": "0.05",
+      "label": "HCV Antibody"
+    }
+  ],
+  "bloodMetrics": [
+    {
+      "id": "mentzer",
+      "name": "Mentzer",
+      "range": "12.3 - 15.5 secs",
+      "value": "16.7",
+      "status": "warn"
+    },
+    {
+      "id": "hcv",
+      "name": "HCV AntiBody",
+      "range": "< 0.389",
+      "value": "56.6",
+      "status": "good"
+    },
+    {
+      "id": "apo",
+      "name": "Apolipoprotine A1",
+      "range": "12.3 - 15.5 secs",
+      "value": "14.9",
+      "status": "bad"
+    },
+    {
+      "id": "pt",
+      "name": "Prothorombine Time",
+      "range": "12.3 - 15.5 secs",
+      "value": "6.2",
+      "status": "warn"
+    },
+    {
+      "id": "hcv2",
+      "name": "HCV AntiBody",
+      "range": "< 0.389",
+      "value": "26.0",
+      "status": "good"
+    },
+    {
+      "id": "ige",
+      "name": "Immunoglubulim E2",
+      "range": "12.3 - 15.5 secs",
+      "value": "69",
+      "status": "bad"
+    }
+  ],
+  "organs": [
+    {
+      "id": "heart",
+      "name": "Heart",
+      "iconAsset": "assets/images/organs/heart.png",
+      "heroAsset": "assets/images/organs/heart.png",
+      "overviewTitle": "Heart Conditions Overview",
+      "gaugeTitle": "Heart Condition",
+      "score": 76,
+      "gaugeTheme": "green",
+      "callouts": [
+        {
+          "text": "Better Cardiac Condition than usual.",
+          "status": "good"
+        },
+        {
+          "text": "Recovery phase with mild discomfort noted.",
+          "status": "good",
+          "linkLabel": "View in Details \u2192"
+        },
+        {
+          "text": "Notice a minor blockage in the lower 4th chamber.",
+          "status": "bad"
+        }
+      ],
+      "recommendationTitle": "Heart Health Recommendation :",
+      "recommendationIntro": "For individuals who have experienced a heart attack (myocardial infarction), it is crucial to follow these health recommendations:",
+      "recommendations": [
+        "Follow a heart-healthy diet low in saturated fat and sodium.",
+        "Exercise regularly with supervised cardio intervals.",
+        "Manage stress with breathing drills and recovery windows.",
+        "Avoid smoking and limit alcohol intake.",
+        "Track blood pressure and lipid panels weekly.",
+        "Prioritize 7\u20138 hours of quality sleep.",
+        "Stay consistent with prescribed medications."
+      ],
+      "riskSectionTitle": "Chronic Heart Disease Risk Assessment",
+      "strengths": [
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        }
+      ],
+      "weaknesses": [
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        }
+      ],
+      "riskMetrics": [
+        {
+          "id": "mentzer",
+          "name": "Mentzer",
+          "range": "12.3 - 15.5 secs",
+          "value": "16.7",
+          "status": "warn"
+        },
+        {
+          "id": "hcv",
+          "name": "HCV AntiBody",
+          "range": "< 0.389",
+          "value": "56.6",
+          "status": "good"
+        },
+        {
+          "id": "apo",
+          "name": "Apolipoprotine A1",
+          "range": "12.3 - 15.5 secs",
+          "value": "14.9",
+          "status": "bad"
+        },
+        {
+          "id": "pt",
+          "name": "Prothorombine Time",
+          "range": "12.3 - 15.5 secs",
+          "value": "6.2",
+          "status": "warn"
+        },
+        {
+          "id": "hcv2",
+          "name": "HCV AntiBody",
+          "range": "< 0.389",
+          "value": "26.0",
+          "status": "good"
+        },
+        {
+          "id": "ige",
+          "name": "Immunoglubulim E2",
+          "range": "12.3 - 15.5 secs",
+          "value": "69",
+          "status": "bad"
+        }
+      ]
+    },
+    {
+      "id": "lungs",
+      "name": "Lungs",
+      "iconAsset": "assets/images/organs/lungs_cut.png",
+      "heroAsset": "assets/images/organs/lungs_cut.png",
+      "overviewTitle": "Lungs Conditions Overview",
+      "gaugeTitle": "Lungs Condition",
+      "score": 66,
+      "gaugeTheme": "amber",
+      "callouts": [
+        {
+          "text": "Better Respiration Condition than Past..",
+          "status": "good"
+        },
+        {
+          "text": "Recovery phase with better oxygen Supply.",
+          "status": "good",
+          "linkLabel": "View in Details \u2192"
+        },
+        {
+          "text": "Notice a minor blockage in the lean airway.",
+          "status": "bad"
+        }
+      ],
+      "recommendationTitle": "Lungs Health Recommendation :",
+      "recommendationIntro": "Maintaining healthy lungs is essential for oxygen delivery and endurance. We recommend:",
+      "recommendations": [
+        "Eating a lung-friendly diet rich in antioxidants.",
+        "Practicing daily breathing drills and avoiding pollutants.",
+        "Keeping cardio light-to-moderate during recovery phases.",
+        "Tracking oxygen saturation after training sessions."
+      ],
+      "riskSectionTitle": "Chronic lungs Disease Risk Assessment",
+      "strengths": [
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        }
+      ],
+      "weaknesses": [
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV AntiBody"
+        }
+      ],
+      "riskMetrics": [
+        {
+          "id": "mentzer",
+          "name": "Mentzer",
+          "range": "12.3 - 15.5 secs",
+          "value": "16.7",
+          "status": "warn"
+        },
+        {
+          "id": "hcv",
+          "name": "HCV AntiBody",
+          "range": "< 0.389",
+          "value": "56.6",
+          "status": "good"
+        },
+        {
+          "id": "apo",
+          "name": "Apolipoprotine A1",
+          "range": "12.3 - 15.5 secs",
+          "value": "14.9",
+          "status": "bad"
+        },
+        {
+          "id": "pt",
+          "name": "Prothorombine Time",
+          "range": "12.3 - 15.5 secs",
+          "value": "6.2",
+          "status": "warn"
+        },
+        {
+          "id": "hcv2",
+          "name": "HCV AntiBody",
+          "range": "< 0.389",
+          "value": "26.0",
+          "status": "good"
+        },
+        {
+          "id": "ige",
+          "name": "Immunoglubulim E2",
+          "range": "12.3 - 15.5 secs",
+          "value": "69",
+          "status": "bad"
+        }
+      ]
+    },
+    {
+      "id": "kidneys",
+      "name": "kidneys",
+      "iconAsset": "assets/images/organs/kidney_md.png",
+      "heroAsset": "assets/images/organs/kidney_md.png",
+      "overviewTitle": "Kidney Conditions Overview",
+      "gaugeTitle": "Kidney Condition",
+      "score": 58,
+      "gaugeTheme": "amber",
+      "callouts": [
+        {
+          "text": "Filtration trending stable this week.",
+          "status": "good"
+        },
+        {
+          "text": "Hydration slightly below target.",
+          "status": "bad",
+          "linkLabel": "View in Details \u2192"
+        }
+      ],
+      "recommendationTitle": "Kidney Health Recommendation :",
+      "recommendationIntro": "Kidney filtration responds quickly to hydration and sodium load. We recommend:",
+      "recommendations": [
+        "Increasing daily water intake to 2.5\u20133 litres.",
+        "Reducing processed foods and excess sodium.",
+        "Reviewing protein intake against training volume."
+      ],
+      "riskSectionTitle": "Chronic Kidney Disease Risk Assessment",
+      "strengths": [
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        }
+      ],
+      "weaknesses": [
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        }
+      ],
+      "riskMetrics": [
+        {
+          "id": "mentzer",
+          "name": "Mentzer",
+          "range": "12.3 - 15.5 secs",
+          "value": "16.7",
+          "status": "warn"
+        },
+        {
+          "id": "hcv",
+          "name": "HCV AntiBody",
+          "range": "< 0.389",
+          "value": "56.6",
+          "status": "good"
+        },
+        {
+          "id": "apo",
+          "name": "Apolipoprotine A1",
+          "range": "12.3 - 15.5 secs",
+          "value": "14.9",
+          "status": "bad"
+        }
+      ]
+    },
+    {
+      "id": "brain",
+      "name": "Brain",
+      "iconAsset": "assets/images/organs/brain_md.png",
+      "heroAsset": "assets/images/organs/brain_md.png",
+      "overviewTitle": "Brain Conditions Overview",
+      "gaugeTitle": "Brain Condition",
+      "score": 72,
+      "gaugeTheme": "green",
+      "callouts": [
+        {
+          "text": "Cognitive recovery improving overnight.",
+          "status": "good",
+          "linkLabel": "View in Details \u2192"
+        },
+        {
+          "text": "Afternoon focus dips after poor sleep.",
+          "status": "bad"
+        }
+      ],
+      "recommendationTitle": "Brain Health Recommendation :",
+      "recommendationIntro": "Cognitive markers track closely with sleep quality. We recommend:",
+      "recommendations": [
+        "Protecting a consistent sleep window.",
+        "Adding omega-3 rich foods to weekly meals.",
+        "Scheduling deep-focus work in the morning."
+      ],
+      "riskSectionTitle": "Chronic Neuro Risk Assessment",
+      "strengths": [
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        }
+      ],
+      "weaknesses": [
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        }
+      ],
+      "riskMetrics": [
+        {
+          "id": "mentzer",
+          "name": "Mentzer",
+          "range": "12.3 - 15.5 secs",
+          "value": "16.7",
+          "status": "warn"
+        },
+        {
+          "id": "hcv",
+          "name": "HCV AntiBody",
+          "range": "< 0.389",
+          "value": "56.6",
+          "status": "good"
+        }
+      ]
+    },
+    {
+      "id": "bones",
+      "name": "Bones",
+      "iconAsset": "assets/images/organs/spine1.png",
+      "heroAsset": "assets/images/organs/spine3.png",
+      "overviewTitle": "Bones Conditions Overview",
+      "gaugeTitle": "Bone Condition",
+      "score": 64,
+      "gaugeTheme": "amber",
+      "callouts": [
+        {
+          "text": "Spine load elevated after training.",
+          "status": "bad"
+        },
+        {
+          "text": "Mobility range improving steadily.",
+          "status": "good",
+          "linkLabel": "View in Details \u2192"
+        }
+      ],
+      "recommendationTitle": "Bone Health Recommendation :",
+      "recommendationIntro": "Bone density benefits from load management and nutrition. We recommend:",
+      "recommendations": [
+        "Adding mobility work before heavy sessions.",
+        "Keeping calcium and vitamin D intake consistent.",
+        "Deloading every fourth training week."
+      ],
+      "riskSectionTitle": "Chronic Skeletal Risk Assessment",
+      "strengths": [
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        }
+      ],
+      "weaknesses": [
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        }
+      ],
+      "riskMetrics": [
+        {
+          "id": "mentzer",
+          "name": "Mentzer",
+          "range": "12.3 - 15.5 secs",
+          "value": "16.7",
+          "status": "warn"
+        },
+        {
+          "id": "apo",
+          "name": "Apolipoprotine A1",
+          "range": "12.3 - 15.5 secs",
+          "value": "14.9",
+          "status": "bad"
+        }
+      ]
+    },
+    {
+      "id": "stomach",
+      "name": "Stomach",
+      "iconAsset": "assets/images/organs/stomach_md.png",
+      "heroAsset": "assets/images/organs/stomach_md.png",
+      "overviewTitle": "Stomach Conditions Overview",
+      "gaugeTitle": "Stomach Condition",
+      "score": 61,
+      "gaugeTheme": "amber",
+      "callouts": [
+        {
+          "text": "Digestive comfort improving post meals.",
+          "status": "good",
+          "linkLabel": "View in Details \u2192"
+        },
+        {
+          "text": "Late caffeine disrupting acid balance.",
+          "status": "bad"
+        }
+      ],
+      "recommendationTitle": "Stomach Health Recommendation :",
+      "recommendationIntro": "Digestive markers respond to meal timing. We recommend:",
+      "recommendations": [
+        "Eating smaller, more frequent meals.",
+        "Cutting caffeine after 2pm.",
+        "Adding fermented foods gradually."
+      ],
+      "riskSectionTitle": "Chronic Gastric Risk Assessment",
+      "strengths": [
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        }
+      ],
+      "weaknesses": [
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        }
+      ],
+      "riskMetrics": [
+        {
+          "id": "mentzer",
+          "name": "Mentzer",
+          "range": "12.3 - 15.5 secs",
+          "value": "16.7",
+          "status": "warn"
+        },
+        {
+          "id": "hcv",
+          "name": "HCV AntiBody",
+          "range": "< 0.389",
+          "value": "26.0",
+          "status": "good"
+        }
+      ]
+    },
+    {
+      "id": "intestine",
+      "name": "Intestine",
+      "iconAsset": "assets/images/organs/intestine_cut.png",
+      "heroAsset": "assets/images/organs/intestine_cut.png",
+      "overviewTitle": "Intestine Conditions Overview",
+      "gaugeTitle": "Gut Condition",
+      "score": 55,
+      "gaugeTheme": "red",
+      "callouts": [
+        {
+          "text": "Microbiome diversity needs attention.",
+          "status": "bad"
+        },
+        {
+          "text": "Fibre intake trending upward.",
+          "status": "good",
+          "linkLabel": "View in Details \u2192"
+        }
+      ],
+      "recommendationTitle": "Gut Health Recommendation :",
+      "recommendationIntro": "Gut diversity improves slowly with dietary variety. We recommend:",
+      "recommendations": [
+        "Increasing fibre from mixed plant sources.",
+        "Adding fermented foods a few times weekly.",
+        "Limiting ultra-processed snacks."
+      ],
+      "riskSectionTitle": "Chronic Gut Disease Risk Assessment",
+      "strengths": [
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        }
+      ],
+      "weaknesses": [
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        },
+        {
+          "value": "0.05",
+          "label": "HCV Antibody"
+        }
+      ],
+      "riskMetrics": [
+        {
+          "id": "ige",
+          "name": "Immunoglubulim E2",
+          "range": "12.3 - 15.5 secs",
+          "value": "69",
+          "status": "bad"
+        },
+        {
+          "id": "hcv",
+          "name": "HCV AntiBody",
+          "range": "< 0.389",
+          "value": "56.6",
+          "status": "good"
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "id": "mentzer",
+      "title": "Mentzer",
+      "value": "36.7",
+      "unit": "mcg/dl",
+      "statusLabel": "optimal",
+      "badgeLabel": "Moderate 36.7",
+      "needlePercent": 0.42,
+      "impactsLabel": "Parameters that are generally impacted by LDL Cholesterol:",
+      "ranges": [
+        {
+          "label": "Very Low",
+          "range": "< 4.46 mcg/dL",
+          "colorHex": "#E53935"
+        },
+        {
+          "label": "Low",
+          "range": "< 8.46 mcg/dL",
+          "colorHex": "#FF8A65"
+        },
+        {
+          "label": "Moderate",
+          "range": "4.46 mcg/dL",
+          "colorHex": "#FFEB3B"
+        },
+        {
+          "label": "Optimal",
+          "range": "< 6.46 mcg/dL",
+          "colorHex": "#AED581"
+        },
+        {
+          "label": "High",
+          "range": "88.46 -9.2 mcg/dL",
+          "colorHex": "#66BB6A"
+        },
+        {
+          "label": "Very HIGH",
+          "range": "<10.46 -22.0 mg/dL",
+          "colorHex": "#2E7D32"
+        }
+      ],
+      "impacts": [
+        {
+          "title": "Diet (saturated fat, sugar intake)",
+          "description": "Limit saturated fats and sugars to keep arteries clear and cholesterol in check."
+        },
+        {
+          "title": "Physical activity levels",
+          "description": "Regular exercise strengthens the heart and improves circulation"
+        },
+        {
+          "title": "Body weight and waist circumference",
+          "description": "Maintaining a healthy weight reduces strain on the heart and lowers risk factors."
+        }
+      ],
+      "aboutTitle": "ABOUT LDL CHOLESTEROL",
+      "about": "LDL Cholesterol, often referred to as \"bad cholesterol,\" plays a key role in heart health. Elevated LDL levels can lead to the buildup of plaque in arteries, increasing the risk of heart disease and stroke. Key functions and impacts of LDL cholesterol in the body include"
+    },
+    {
+      "id": "hcv",
+      "title": "HCV AntiBody",
+      "value": "56.6",
+      "unit": "index",
+      "statusLabel": "optimal",
+      "badgeLabel": "Optimal 56.6",
+      "needlePercent": 0.62,
+      "impactsLabel": "Parameters that are generally impacted by HCV AntiBody:",
+      "ranges": [
+        {
+          "label": "Very Low",
+          "range": "< 4.46 index",
+          "colorHex": "#E53935"
+        },
+        {
+          "label": "Low",
+          "range": "< 8.46 index",
+          "colorHex": "#FF8A65"
+        },
+        {
+          "label": "Moderate",
+          "range": "4.46 index",
+          "colorHex": "#FFEB3B"
+        },
+        {
+          "label": "Optimal",
+          "range": "< 6.46 index",
+          "colorHex": "#AED581"
+        },
+        {
+          "label": "High",
+          "range": "88.46 -9.2 index",
+          "colorHex": "#66BB6A"
+        },
+        {
+          "label": "Very HIGH",
+          "range": "<10.46 -22.0 index",
+          "colorHex": "#2E7D32"
+        }
+      ],
+      "impacts": [
+        {
+          "title": "Liver enzyme balance",
+          "description": "Sustained enzyme elevation can distort antibody readings across panels."
+        },
+        {
+          "title": "Immune response history",
+          "description": "Past exposure shapes long-term antibody levels in circulation."
+        },
+        {
+          "title": "Hydration and plasma volume",
+          "description": "Dehydration concentrates markers and can overstate the result."
+        }
+      ],
+      "aboutTitle": "ABOUT HCV ANTIBODY",
+      "about": "The HCV antibody marker reflects immune response linked to hepatitis C exposure. A reactive value requires confirmatory testing, and trends matter more than any single reading when tracking recovery."
+    },
+    {
+      "id": "apo",
+      "title": "Apolipoprotine A1",
+      "value": "14.9",
+      "unit": "mg/dL",
+      "statusLabel": "low",
+      "badgeLabel": "Very Low 14.9",
+      "needlePercent": 0.12,
+      "impactsLabel": "Parameters that are generally impacted by Apolipoprotine A1:",
+      "ranges": [
+        {
+          "label": "Very Low",
+          "range": "< 4.46 mg/dL",
+          "colorHex": "#E53935"
+        },
+        {
+          "label": "Low",
+          "range": "< 8.46 mg/dL",
+          "colorHex": "#FF8A65"
+        },
+        {
+          "label": "Moderate",
+          "range": "4.46 mg/dL",
+          "colorHex": "#FFEB3B"
+        },
+        {
+          "label": "Optimal",
+          "range": "< 6.46 mg/dL",
+          "colorHex": "#AED581"
+        },
+        {
+          "label": "High",
+          "range": "88.46 -9.2 mg/dL",
+          "colorHex": "#66BB6A"
+        },
+        {
+          "label": "Very HIGH",
+          "range": "<10.46 -22.0 mg/dL",
+          "colorHex": "#2E7D32"
+        }
+      ],
+      "impacts": [
+        {
+          "title": "Dietary fat quality",
+          "description": "Unsaturated fats support healthier apolipoprotein ratios."
+        },
+        {
+          "title": "Aerobic training volume",
+          "description": "Consistent aerobic work raises protective lipid transport."
+        },
+        {
+          "title": "Alcohol intake",
+          "description": "Excess alcohol distorts lipid transport and liver output."
+        }
+      ],
+      "aboutTitle": "ABOUT APOLIPOPROTEIN A1",
+      "about": "Apolipoprotein A1 is the main protein in HDL particles and supports reverse cholesterol transport. Low values are associated with reduced cardiovascular protection and warrant dietary and training review."
+    },
+    {
+      "id": "pt",
+      "title": "Prothorombine Time",
+      "value": "6.2",
+      "unit": "secs",
+      "statusLabel": "moderate",
+      "badgeLabel": "Moderate 6.2",
+      "needlePercent": 0.36,
+      "impactsLabel": "Parameters that are generally impacted by Prothorombine Time:",
+      "ranges": [
+        {
+          "label": "Very Low",
+          "range": "< 4.46 secs",
+          "colorHex": "#E53935"
+        },
+        {
+          "label": "Low",
+          "range": "< 8.46 secs",
+          "colorHex": "#FF8A65"
+        },
+        {
+          "label": "Moderate",
+          "range": "4.46 secs",
+          "colorHex": "#FFEB3B"
+        },
+        {
+          "label": "Optimal",
+          "range": "< 6.46 secs",
+          "colorHex": "#AED581"
+        },
+        {
+          "label": "High",
+          "range": "88.46 -9.2 secs",
+          "colorHex": "#66BB6A"
+        },
+        {
+          "label": "Very HIGH",
+          "range": "<10.46 -22.0 secs",
+          "colorHex": "#2E7D32"
+        }
+      ],
+      "impacts": [
+        {
+          "title": "Vitamin K intake",
+          "description": "Leafy greens directly influence clotting factor synthesis."
+        },
+        {
+          "title": "Medication interactions",
+          "description": "Anticoagulants shift clotting time substantially."
+        },
+        {
+          "title": "Liver function",
+          "description": "Clotting factors are produced in the liver, so function matters."
+        }
+      ],
+      "aboutTitle": "ABOUT PROTHROMBIN TIME",
+      "about": "Prothrombin time measures how quickly blood clots via the extrinsic pathway. It is sensitive to vitamin K status, liver function and anticoagulant therapy, so readings are interpreted alongside medication history."
+    },
+    {
+      "id": "hcv2",
+      "title": "HCV AntiBody",
+      "value": "26.0",
+      "unit": "index",
+      "statusLabel": "optimal",
+      "badgeLabel": "Optimal 26.0",
+      "needlePercent": 0.55,
+      "impactsLabel": "Parameters that are generally impacted by HCV AntiBody:",
+      "ranges": [
+        {
+          "label": "Very Low",
+          "range": "< 4.46 index",
+          "colorHex": "#E53935"
+        },
+        {
+          "label": "Low",
+          "range": "< 8.46 index",
+          "colorHex": "#FF8A65"
+        },
+        {
+          "label": "Moderate",
+          "range": "4.46 index",
+          "colorHex": "#FFEB3B"
+        },
+        {
+          "label": "Optimal",
+          "range": "< 6.46 index",
+          "colorHex": "#AED581"
+        },
+        {
+          "label": "High",
+          "range": "88.46 -9.2 index",
+          "colorHex": "#66BB6A"
+        },
+        {
+          "label": "Very HIGH",
+          "range": "<10.46 -22.0 index",
+          "colorHex": "#2E7D32"
+        }
+      ],
+      "impacts": [
+        {
+          "title": "Immune response history",
+          "description": "Past exposure shapes long-term antibody levels in circulation."
+        },
+        {
+          "title": "Liver enzyme balance",
+          "description": "Enzyme elevation can distort antibody readings across panels."
+        },
+        {
+          "title": "Recent infections",
+          "description": "Acute illness temporarily shifts antibody concentration."
+        }
+      ],
+      "aboutTitle": "ABOUT HCV ANTIBODY",
+      "about": "The HCV antibody marker reflects immune response linked to hepatitis C exposure. Serial measurements provide a clearer recovery picture than a single reactive result."
+    },
+    {
+      "id": "ige",
+      "title": "Immunoglubulim E2",
+      "value": "69",
+      "unit": "IU/mL",
+      "statusLabel": "high",
+      "badgeLabel": "Very HIGH 69",
+      "needlePercent": 0.88,
+      "impactsLabel": "Parameters that are generally impacted by Immunoglubulim E2:",
+      "ranges": [
+        {
+          "label": "Very Low",
+          "range": "< 4.46 IU/mL",
+          "colorHex": "#E53935"
+        },
+        {
+          "label": "Low",
+          "range": "< 8.46 IU/mL",
+          "colorHex": "#FF8A65"
+        },
+        {
+          "label": "Moderate",
+          "range": "4.46 IU/mL",
+          "colorHex": "#FFEB3B"
+        },
+        {
+          "label": "Optimal",
+          "range": "< 6.46 IU/mL",
+          "colorHex": "#AED581"
+        },
+        {
+          "label": "High",
+          "range": "88.46 -9.2 IU/mL",
+          "colorHex": "#66BB6A"
+        },
+        {
+          "label": "Very HIGH",
+          "range": "<10.46 -22.0 IU/mL",
+          "colorHex": "#2E7D32"
+        }
+      ],
+      "impacts": [
+        {
+          "title": "Allergen exposure",
+          "description": "Seasonal and household allergens drive IgE elevation."
+        },
+        {
+          "title": "Airway inflammation",
+          "description": "Chronic airway irritation sustains high IgE levels."
+        },
+        {
+          "title": "Skin barrier health",
+          "description": "Eczema and barrier loss correlate with raised IgE."
+        }
+      ],
+      "aboutTitle": "ABOUT IMMUNOGLOBULIN E",
+      "about": "Immunoglobulin E mediates allergic response. Elevated totals point to atopic load rather than a specific trigger, so allergen-specific panels are used to localise the cause."
+    }
+  ]
+}
