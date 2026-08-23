@@ -50,11 +50,10 @@ class _MetricDetailView extends StatelessWidget {
             return Center(child: Text(state.error ?? 'Metric not found', style: T.exo(14)));
           }
 
-          final impactsTop = 595.0;
-          final aboutTop = impactsTop + metric.impacts.length * 85 + 30;
-
+          // Impacts expand in place; keep About in the same flow so its heading
+          // never sits under an opened card.
           return FigmaFrame(
-            designHeight: aboutTop + 220,
+            designHeight: (595 + metric.impacts.length * 140.0 + 280).clamp(1010.0, 2200.0),
             children: [
               const Positioned.fill(
                 child: SceneBackdrop(
@@ -158,44 +157,37 @@ class _MetricDetailView extends StatelessWidget {
                 ),
 
               At(
-                left: 17,
-                top: 565,
-                width: 360,
-                height: 20,
-                child: Text(
-                  metric.impactsLabel,
-                  style: T.exo(11.5, color: AppColors.tileSub),
-                ),
-              ),
-              for (var i = 0; i < metric.impacts.length; i++)
-                At(
-                  left: 12,
-                  top: impactsTop + i * 85,
-                  width: 378,
-                  child: _ImpactCard(
-                    impact: metric.impacts[i],
-                    expanded: state.expandedIndex == i,
-                    onTap: () => context.read<MetricDetailCubit>().toggleImpact(i),
-                  ),
-                ),
-
-              At(
-                left: 17,
-                top: aboutTop,
-                width: 360,
-                height: 24,
-                child: Text(
-                  metric.aboutTitle,
-                  style: T.openSans(15, weight: FontWeight.w700),
-                ),
-              ),
-              At(
-                left: 17,
-                top: aboutTop + 30,
-                width: 360,
-                child: Text(
-                  metric.about,
-                  style: T.openSans(13, color: AppColors.bodyGray, height: 20),
+                left: 12,
+                top: 555,
+                width: 378,
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      metric.impactsLabel,
+                      style: T.exo(11.5, color: AppColors.tileSub),
+                    ),
+                    const SizedBox(height: 12),
+                    for (var i = 0; i < metric.impacts.length; i++) ...[
+                      _ImpactCard(
+                        impact: metric.impacts[i],
+                        expanded: state.expandedIndex == i,
+                        onTap: () => context.read<MetricDetailCubit>().toggleImpact(i),
+                      ),
+                      const SizedBox(height: 10),
+                    ],
+                    const SizedBox(height: 18),
+                    Text(
+                      metric.aboutTitle,
+                      style: T.openSans(15, weight: FontWeight.w700),
+                    ),
+                    const SizedBox(height: 10),
+                    Text(
+                      metric.about,
+                      style: T.openSans(13, color: AppColors.bodyGray, height: 20),
+                    ),
+                    const SizedBox(height: 40),
+                  ],
                 ),
               ),
             ],

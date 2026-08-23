@@ -29,7 +29,7 @@ class PhenotypeHubScreen extends StatefulWidget {
 class _PhenotypeHubScreenState extends State<PhenotypeHubScreen> {
   final _scroll = ScrollController();
 
-  static const _frameHeight = 2250.0;
+  static const _frameHeight = 2550.0;
 
   @override
   void dispose() {
@@ -286,40 +286,41 @@ class _PhenotypeHubScreenState extends State<PhenotypeHubScreen> {
               ),
             ],
           ),
+          maxLines: 8,
+          overflow: TextOverflow.ellipsis,
         ),
       ),
 
-      // --- immune strength dial
-      // Figma: heading y=1217; dial 236.79×235.76 at y=1270, centerX -0.61
-      At(
-        left: HealthGauge.leftOnCanvas(),
-        top: 1270,
-        width: HealthGauge.designWidth,
-        height: HealthGauge.designHeight,
-        child: HealthGauge(value: data.immuneScore),
-      ),
-      At(
-        left: 62,
-        top: 1217,
-        width: 300,
-        height: 40,
-        child: Text(
-          data.immuneHeading,
-          style: T.orbitron(20, weight: FontWeight.w700, height: 32),
-        ),
-      ),
-
-      // --- recommendations + strengths / weakness
+      // --- immune dial + recommendation (flowed so headings never sit on cards)
       At(
         left: 11,
-        top: 1562,
+        top: 1220,
         width: RecommendationCard.width,
-        child: RecommendationCard(
-          title: data.immuneRecommendationTitle,
-          intro: data.immuneIntro,
-          bullets: data.immuneBullets,
-          strengths: data.strengths,
-          weaknesses: data.weaknesses,
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.stretch,
+          children: [
+            Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 51),
+              child: Text(
+                data.immuneHeading,
+                style: T.orbitron(20, weight: FontWeight.w700, height: 32),
+              ),
+            ),
+            const SizedBox(height: 18),
+            SizedBox(
+              height: HealthGauge.designHeight,
+              child: Center(child: HealthGauge(value: data.immuneScore)),
+            ),
+            const SizedBox(height: 36),
+            RecommendationCard(
+              title: data.immuneRecommendationTitle,
+              intro: data.immuneIntro,
+              bullets: data.immuneBullets,
+              strengths: data.strengths,
+              weaknesses: data.weaknesses,
+            ),
+            const SizedBox(height: 48),
+          ],
         ),
       ),
     ];
